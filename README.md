@@ -6,3 +6,5 @@ Collision registry template for an FPS. This is a simple Three.js environment wi
 - Aim at the top of the dummy collider (grey box) to get "HEADSHOT." Aim at the bottom of the dummy collider to get "WEAK SAUCE"
 
 **If you get value from this repository follow me on X [@renderfiction](https://x.com/renderfiction)**
+
+![Gameplay Demo](./assets/demo.gif)
